@@ -21,4 +21,4 @@ HTML,CSS,JavaScript
 
 ### Links 
 * [*GitHub repository*](https://github.com/daliyaebenny/Code-quiz.git)   
-* [*GitHub pages*]()
+* [*GitHub pages*](https://daliyaebenny.github.io/Code-quiz/)
